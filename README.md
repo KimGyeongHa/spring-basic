@@ -159,8 +159,7 @@
 	  주입받을 경우 프로토타입 스코프가 싱글톤 스코프처럼
 	  동작한다.
 	  
-	  @Autowired로 의존관계를 주입받는것이아닌
-	  직접찾는것 Dependency Lookup(DL)
+	  직접찾는것 Dependency Lookup(DL) 을 사용하여 DI
 	  
 	  ObejectProvider로 DL 가능
 	  ObejectProvider는 
